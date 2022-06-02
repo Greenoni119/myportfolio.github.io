@@ -1,4 +1,31 @@
 body {
     background-color: rgb(78, 78, 78);
+    max-width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
     }
     
+h2 {
+font-family: 'Bitter', serif;
+  font-family: 'Yeseva One';
+  text-align: center;
+  color:#b4aeae;
+  font-size: 150px;
+}
+
+h1 {
+    font-family: 'Bitter', serif;
+      font-family: 'Yeseva One';
+      text-align: center;
+      color:#b4aeae;
+      font-size: 200px;
+    }
+
+p{
+    text-align: center;
+    color: #b4aeae;
+    font-family: 'Bitter', serif;
+    font-style: bolder;
+    font-size:  120px;
+  }

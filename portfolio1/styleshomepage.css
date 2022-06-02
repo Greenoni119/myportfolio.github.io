@@ -1,24 +1,28 @@
 body {
+margin-top:4%;
 background-color: rgb(78,78,78);
 }
-
+#name1{
+    font-size:110px ;
+}
 #title1 {
 color: #b4aeae;
 text-align: center;
 font-family: 'Bitter', serif;
 font-family: 'Yeseva One';
-font-size:  70px;
+font-size:  120px;
 }
 
 h1{
 font-family: 'Bitter', serif;
+font-family: 'Yeseva One';
 text-align: center;
 color:#b4aeae;
 font-size: 80px;
 }
 
 #line1{
-color: #b4aeae;
+color: #b10909;
 max-width: 1900px;
 align-self: center;
 }
@@ -32,25 +36,25 @@ ul li {
 list-style: none;
 display:inline-block;
 font-family: 'Bitter', serif;
-    text-align: center;
-    color:#b4aeae;
-    font-size: 80px;
-    padding-block: 100px;
+text-align: center;
+color:#b4aeae;
+font-size: 80px;
+padding: 50px;
 }
 
 ul li a {
     font-family: 'Bitter', serif;
+    font-family: 'Yeseva One';
     text-align: center;
     color:#b4aeae;
     font-size: 80px;
     text-decoration: none;
     padding: 100px;
     padding-bottom: 0;
-    font-style: italic;
     font-size: larger;
     font-weight:bolder ;
 }
 
 ul li a:hover {
-color: rgb(172, 61, 10);
+color: rgba(172, 61, 10, 0.575);
 }

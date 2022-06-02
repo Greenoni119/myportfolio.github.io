@@ -1,4 +1,33 @@
 body {
     background-color: rgb(78, 78, 78);
+    max-width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
     }
     
+#pgh1{
+  text-align: center;
+  color: #b4aeae;
+  font-family: 'Bitter', serif;
+  font-size:  100px;
+  line-height: 2em;
+}
+   
+a{
+  font-family: 'Bitter', serif;
+  font-family: 'Yeseva One';
+  text-decoration: none;
+  color: rgba(172, 61, 10, 0.363);
+  font-weight: bolder;
+  font-size: larger;
+}
+
+h2{
+  font-family: 'Bitter', serif;
+  font-family: 'Yeseva One';
+  text-align: center;
+  color:#b4aeae;
+  font-size: 200px;
+  }
+  
