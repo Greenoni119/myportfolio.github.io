@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(78, 78, 78);
+  background-color: rgba(0, 20, 5, 0.87);
     max-width: 100%;
     margin-left: 10%;
     margin-right: 10%;
@@ -10,7 +10,7 @@ h2 {
 font-family: 'Bitter', serif;
   font-family: 'Yeseva One';
   text-align: center;
-  color:#b4aeae;
+  color: #dace95;
   font-size: 150px;
 }
 
@@ -18,13 +18,13 @@ h1 {
     font-family: 'Bitter', serif;
       font-family: 'Yeseva One';
       text-align: center;
-      color:#b4aeae;
+      color: #dace95;
       font-size: 200px;
     }
 
 p{
     text-align: center;
-    color: #b4aeae;
+    color: #dace95;
     font-family: 'Bitter', serif;
     font-style: bolder;
     font-size:  120px;

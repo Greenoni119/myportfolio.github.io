@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(78, 78, 78);
+    
+  background-color: rgba(0, 20, 5, 0.87);
     max-width: 100%;
     margin-left: 10%;
     margin-right: 10%;
@@ -8,7 +9,7 @@ body {
     
 #pgh1{
   text-align: center;
-  color: #b4aeae;
+  color: #dace95;
   font-family: 'Bitter', serif;
   font-size:  100px;
   line-height: 2em;
@@ -27,7 +28,7 @@ h2{
   font-family: 'Bitter', serif;
   font-family: 'Yeseva One';
   text-align: center;
-  color:#b4aeae;
+  color: #dace95;
   font-size: 200px;
   }
   
