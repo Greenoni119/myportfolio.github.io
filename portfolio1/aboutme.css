@@ -1,0 +1,37 @@
+body {
+  background-color: rgba(0, 20, 5, 0.87);
+    max-width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    }
+    
+h2 {
+font-family: 'Bitter', serif;
+  font-family: 'Yeseva One';
+  text-align: center;
+  color: #dace95;
+  font-size: 150px;
+}
+
+h1 {
+    font-family: 'Bitter', serif;
+      font-family: 'Yeseva One';
+      text-align: center;
+      color: #dace95;
+      font-size: 200px;
+    }
+
+p{
+    text-align: center;
+    color: #dace95;
+    font-family: 'Bitter', serif;
+    font-family: 'Yeseva One';
+    font-style: bolder;
+    font-size:  120px;
+    opacity: 0;
+  }
+  P{
+    opacity: 1;
+    transition: ease-in 2s;
+  }

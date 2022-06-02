@@ -1,0 +1,66 @@
+body {
+    margin-top:4%;
+    margin-left:7% ;
+    margin-right:7% ;
+    background-color: rgba(0, 20, 5, 0.87);
+    }
+
+    #name1{
+        font-size:110px ;
+    }
+
+    #title1 {
+    color: #dace95;
+    text-align: center;
+    font-family: 'Bitter', serif;
+    font-family: 'Yeseva One';
+    font-size:  120px;
+    }
+    
+    h1{
+    font-family: 'Bitter', serif;
+    font-family: 'Yeseva One';
+    text-align: center;
+    color: #dace95;
+    font-size: 80px;
+    }
+    
+    #box1{
+        max-width: 100%;
+        height: 10px; 
+        background-color: #dace95;
+    }
+    
+    ul {
+    text-align: center;
+    
+    }
+    
+    ul li {
+    list-style: none;
+    display:inline-block;
+    font-family: 'Bitter', serif;
+    text-align: center;
+    color: #dace95;
+    font-size: 160px;
+    padding: 50px;
+    }
+    
+    ul li a {
+        font-family: 'Bitter', serif;
+        font-family: 'Yeseva One';
+        text-align: center;
+        color: #dace95;
+        font-size: 80px;
+        text-decoration: none;
+        padding: 100px;
+        padding-bottom: 0;
+        font-size: larger;
+        font-weight:bolder ;
+    }
+    
+    ul li a:hover {
+    color: rgba(214, 112, 65, 0.575);
+    transition: .4s;
+    }
+    
