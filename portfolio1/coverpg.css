@@ -1,4 +1,53 @@
 body {
-    background-color: rgb(78, 78, 78);
+    background-color: rgba(0, 20, 5, 0.87);
+    margin-left: 4%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+   
     }
-    
+    h1{
+
+        font-family: 'Bitter', serif;
+        font-family: 'Yeseva One';
+        color: #dace95;
+        font-size: 300px;
+        text-align: left;
+        }
+        h2{
+
+            font-family: 'Bitter', serif;
+            font-family: 'Yeseva One';
+            text-align:right;
+            color: #dace95;
+            font-size: 200px;
+            }
+
+    .floating { 
+        animation-name: floating;
+        animation-duration: 1s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease-in-out;
+       
+        
+    }
+     
+    @keyframes floating {
+        0% { transform: translate(0,  0px); }
+        50%  { transform: translate(0, 15px); }
+        100%   { transform: translate(0, -0px); }   
+    }
+
+    a {
+        color: rgba(214, 112, 65, 0.575);
+        font-family: 'Bitter', serif;
+  font-family: 'Yeseva One';
+  text-decoration: none;
+  font-size: 300px;
+    }
+    #name1{
+        color:rgba(214, 112, 65, 0.575) ;
+}
+#welcome{
+    text-align: left;
+    font-size: 500px;
+}

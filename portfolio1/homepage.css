@@ -10,7 +10,7 @@ body {
     }
 
     #title1 {
-    color: #dace95;
+        color: rgba(214, 112, 65, 0.575);
     text-align: center;
     font-family: 'Bitter', serif;
     font-family: 'Yeseva One';
